@@ -1,0 +1,25 @@
+.footer {
+    border-top: 2px solid #000;
+    padding-top: 2rem;
+    background-color: #fff;
+    color: #000;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    padding: 20px;
+
+    .copyright {
+        font-size: 1.5rem;
+        
+
+
+        .c {
+           margin-left: 5px;
+           font-size: 1.4rem; 
+        }
+    }
+    
+}
